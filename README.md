@@ -1,2 +1,2 @@
-# ChordTransposeUTT
-Chord transposition using Uniform Triadic Transformation
+# ChordTransposeUTT by Dennis Widjaja
+Chord transposition using Uniform Triadic Transformation 
